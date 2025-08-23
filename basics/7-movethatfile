@@ -1,1 +1,2 @@
-nano ~/holbertonschool-shell/basics/7-movethatfile
+#!/bin/bash
+mv /tmp/betty /tmp/my_first_directory/
