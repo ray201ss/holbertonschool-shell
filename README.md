@@ -1,1 +1,2 @@
-# Holberton Shell Project
+Holberton Shell Project
+Basics scripts.
