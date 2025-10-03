@@ -1,2 +1,4 @@
-#!/bin/bash
-grep -A 3 "root" /etc/passwd
+git add 16-whatsnext
+git commit -m "Add newline at end of file"
+git push
+
